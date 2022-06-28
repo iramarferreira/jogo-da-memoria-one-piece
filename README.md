@@ -8,6 +8,3 @@ Esse é um projeto adaptado a partir de um projeto desenvolvido no curso de Java
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
  
-
-
-## 🚀 Let's code! 🚀
